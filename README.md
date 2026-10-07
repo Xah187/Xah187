@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Ahmed<br>Full-Stack Developer & Generative AI Engineer
-
+Hi there 👋, I'm Ahmed<br>AI/ML Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-saeed-33066326a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmad.bj.ab@gmail.com) 
